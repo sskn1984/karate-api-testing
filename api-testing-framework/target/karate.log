@@ -1,0 +1,13 @@
+22:47:32.884 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+22:47:33.113 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Workspace/api-testing-framework/target/test-classes/examples%5cusers%5capiTest.feature
+22:47:33.176 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Workspace/api-testing-framework/target/test-classes/examples%5cusers%5cusers.feature
+22:47:34.231 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+22:47:36.381 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1903
+22:47:36.505 [main] WARN  com.intuit.karate.StepDefs - xml parsing failed, response data type set to string: org.xml.sax.SAXParseException; lineNumber: 6; columnNumber: 75; Attribute name "data-pagespeed-no-defer" associated with an element type "script" must be followed by the ' = ' character.
+22:47:36.583 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+22:47:37.083 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 481
+22:47:37.179 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 21
+22:47:37.227 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+22:48:07.839 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 30575
+22:48:07.848 [main] WARN  com.intuit.karate.StepDefs - xml parsing failed, response data type set to string: org.xml.sax.SAXParseException; lineNumber: 22; columnNumber: 3; The element type "meta" must be terminated by the matching end-tag "</meta>".
+22:48:07.850 [main] ERROR com.intuit.karate.StepDefs - FAILED, status code was 503, expected 201
